@@ -40,3 +40,5 @@ If there are any unclarities or problems then use your own best judgement to fin
 BONUS
 You can get bonus points if you do the following point:
 o The header on the homepage has a slider for both images and text. You are allowed to use JS frameworks and libraries for this.
+
+Google fonts Lato and Neucha
