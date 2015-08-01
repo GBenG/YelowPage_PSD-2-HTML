@@ -2,12 +2,32 @@
 /* CSS Document */
 @import url(http://fonts.googleapis.com/css?family=Neucha|Lato);
 
+body {
+	font: 100%/1.4 'Lato', sans-serif;;
+	background-color: #FBC840;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	width:1280px;
+}
+
+
 .frame{
 	margin:10px;
 	border: 30px solid #40c4c8;
-    border-image: url(img/frame.gif) 40 round round;
+    border-image: url(img/frame.gif) 30 round round;
+	width:200px;
+}
+
+.titleblock{
+	margin:10px;
+	border: 30px solid #40c4c8;
+    border-image: url(img/frame.gif) 30 0 30 0;
+	width:1280px;
 }
 
 .divf{
-	background-color:rgba(255,255,255,1.00);	
+	background-color:rgba(255,255,255,1.00);
+	font-family: 'Neucha', cursive;	
+	font-size:36px;
 }
